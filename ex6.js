@@ -15,3 +15,5 @@ if (4 > 3 && 6 > 5) {
 if (4 > 3 && -1 > 0) {
   console.log("Esta condición también se cumple?");
 }
+
+// El segundo if no se ejecutará porque no cumple con las dos condiciones. Solo cumple una de ellas
